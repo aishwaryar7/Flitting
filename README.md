@@ -1,4 +1,6 @@
 # Flitting
+## A web appliction that provides all the help one needs to move and settle into a new city or country.
+
 Open the command prompt and navigate to the directory containing 'Flitting'. 
 	 
 Run the command "python manage.py runserver"
