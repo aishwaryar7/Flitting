@@ -9,4 +9,4 @@ Register as a new user or Login with the existing credentials.
 	Username: Aishwarya
 	Password: flitting101
 
-Navigate through various pages to view all the functionality. (The video contains all functionalities)
+Navigate through various pages to view all the functionality.
